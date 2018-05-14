@@ -29,3 +29,4 @@ print('----------------------\n')
 preciousStoneSix = PreciousStone("another precious Stone")
 
 preciousStoneSix.display_precious_stones()
+#t
